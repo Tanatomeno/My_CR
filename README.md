@@ -16,4 +16,4 @@ Feel free to explore, but be aware that the code is intended
 only for personal learning and experimentation, and not as a 
 framework or library for any specific purpose
 
-** Impoerant note: ** I will integrate examples that are not mine
+** Important note: ** I will integrate examples that are not mine
